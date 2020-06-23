@@ -1,4 +1,4 @@
 config goeap_proxy 'global'
 	option wan 'ont'
 	option router 'rgw'
-
+	option ignore_logoff 'false'

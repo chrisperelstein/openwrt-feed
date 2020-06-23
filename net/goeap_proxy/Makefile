@@ -4,9 +4,9 @@ PKG_NAME:=goeap_proxy
 PKG_VERSION:=0.1.2
 PKG_RELEASE:=1
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/pyther/goeap_proxy.git
-PKG_SOURCE_VERSION:=c2761234c88bf1a86495713bc4308b717e55d43e
-PKG_SOURCE_DATE:=2020-06-07
+PKG_SOURCE_URL:=https://github.com/chrisperelstein/goeap_proxy.git
+PKG_SOURCE_VERSION:=5e9e61e46ad9a9c6e9eb4efb6cbad966e2286aa0
+PKG_SOURCE_DATE:=2020-06-27
 PKG_MIRROR_HASH:=skip
 
 GO_PKG:=github.com/pyther/goeap_proxy
